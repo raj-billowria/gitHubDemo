@@ -1,3 +1,4 @@
 Name: Rajesh Singh
 Job Title: QA
 Current Location: Jammu
+State: J&K
